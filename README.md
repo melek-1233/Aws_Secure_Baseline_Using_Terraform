@@ -1,14 +1,9 @@
 # terraform-aws-secure-baseline
 
-[![Github Actions](https://github.com/nozaq/terraform-aws-secure-baseline/actions/workflows/main.yml/badge.svg)](https://github.com/nozaq/terraform-aws-secure-baseline/actions/workflows/main.yml)
-[![Releases](https://img.shields.io/github/v/release/nozaq/terraform-aws-secure-baseline)](https://github.com/nozaq/terraform-aws-secure-baseline/releases/latest)
-
 [Terraform Module Registry](https://registry.terraform.io/modules/nozaq/secure-baseline/aws)
 
 A terraform module to set up your AWS account with the reasonably secure configuration baseline.
 Most configurations are based on [CIS Amazon Web Services Foundations v1.4.0] and [AWS Foundational Security Best Practices v1.0.0].
-
-See [Benchmark Compliance](./compliance.md) to check which items in various benchmarks are covered.
 
 ## Features
 
